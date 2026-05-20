@@ -115,5 +115,6 @@ A personal brand and service website for a business psychologist and education p
 ## Contact
 
 - Email: serzhansrsnbv@gmail.com
+- Telegram: [@sqkee](https://t.me/sqkee)
 - LinkedIn: [linkedin.com/in/serzhan-sarsenbaev](https://www.linkedin.com/in/serzhan-sarsenbaev-9910b2194/)
 - GitHub: [github.com/https-serzhan](https://github.com/https-serzhan)
